@@ -1,6 +1,6 @@
 # Draw With Flowers – WebGL Canvas
 
-![Draw With Flowers Screenshot](images/flowers.png)
+![Draw With Flowers Screenshot](flower.png)
 
 An interactive WebGL sketch where you **draw with procedural flowers** using a custom GLSL fragment shader and Three.js.  
 Click anywhere on the canvas to grow a new flower, and use the “clean the screen” button to reset the canvas. [web:60][web:74]
