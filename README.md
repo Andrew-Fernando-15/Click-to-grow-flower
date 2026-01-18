@@ -40,5 +40,5 @@ No frameworks or UI libraries – everything is hand‑coded to focus on shaders
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-   cd YOUR-REPO-NAME
+   git clone https://github.com/andrew-fernando-15/click-to-grow-flowers.git
+   cd click-to-grow-flowers
