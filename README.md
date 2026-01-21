@@ -3,7 +3,7 @@
 ![Draw With Flowers Screenshot](flower.png)
 
 An interactive WebGL sketch where you **draw with procedural flowers** using a custom GLSL fragment shader and Three.js.  
-Click anywhere on the canvas to grow a new flower, and use the “clean the screen” button to reset the canvas. [web:60][web:74]
+Click anywhere on the canvas to grow a new flower, and use the “clean the screen” button to reset the canvas. 
 
 ---
 
@@ -38,5 +38,5 @@ No frameworks or UI libraries – everything is hand‑coded to focus on shaders
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/andrew-fernando-15/click-to-grow-flower.git
+   git clone https://github.com/andrew-fernando-15/Click-to-grow-flower.git
    cd click-to-grow-flower
