@@ -10,7 +10,7 @@ Click anywhere on the canvas to grow a new flower, and use the “clean the scre
 ## 🌐 Live Demo
 
 👉 **Try it in your browser:**  
-(https://Andrew-Fernando-15.github.io/Click-to-grow-flower/index.html)
+[View my live portfolio here!](https://Andrew-Fernando-15.github.io/Click-to-grow-flower/index.html)
 
 ---
 
